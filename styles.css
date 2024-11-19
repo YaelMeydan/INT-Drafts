@@ -1,0 +1,6 @@
+body.topframe {
+    color: navy;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(clouds.jpeg); 
+    background-size: cover; 
+}
